@@ -1,4 +1,4 @@
-# Tabr
+# TABR
 
 AI-powered guitar tab generator using webcam computer vision + audio transcription.
 
